@@ -1,0 +1,101 @@
+Conceito,Explicação,Fórmula,Referência
+Posição,Descrição do local de um objeto em um dado instante no tempo,x(t) = x₀ + v₀t + (1/2)at²,https://pt.wikipedia.org/wiki/Posição
+Velocidade,Taxa de variação da posição de um objeto em relação ao tempo,v = ∆x/∆t,https://pt.wikipedia.org/wiki/Velocidade
+Aceleração,Taxa de variação da velocidade de um objeto em relação ao tempo,a = ∆v/∆t,https://pt.wikipedia.org/wiki/Aceleração
+Equação de Movimento 1,Equação que descreve o movimento uniformemente acelerado para a posição de um objeto,x(t) = x₀ + v₀t + (1/2)at²,https://pt.wikipedia.org/wiki/Movimento_uniformemente_acelerado
+Equação de Movimento 2,Equação que descreve a velocidade de um objeto em movimento uniformemente acelerado,v(t) = v₀ + at,https://pt.wikipedia.org/wiki/Movimento_uniformemente_acelerado
+Movimento Uniforme (MU),Movimento de um objeto que percorre distâncias iguais em intervalos de tempo iguais,v = constante,https://pt.wikipedia.org/wiki/Movimento_uniforme
+Movimento Uniformemente Acelerado (MUA),Movimento de um objeto com aceleração constante,v = v₀ + at,https://pt.wikipedia.org/wiki/Movimento_uniformemente_acelerado
+Deslocamento,Distância entre o ponto inicial e o ponto final de um objeto,m = x - x₀,https://pt.wikipedia.org/wiki/Deslocamento
+Trajetória,Caminho percorrido por um objeto durante seu movimento,https://pt.wikipedia.org/wiki/Trajetória
+Velocidade Instantânea,Velocidade de um objeto em um instante específico,v(t) = dx/dt,https://pt.wikipedia.org/wiki/Velocidade_instântanea
+Velocidade Média,Média das velocidades em um intervalo de tempo,v_m = (x_f - x₀)/(t_f - t₀),https://pt.wikipedia.org/wiki/Velocidade_média
+Aceleração Média,Taxa média de variação da velocidade de um objeto,a_m = (v_f - v₀)/(t_f - t₀),https://pt.wikipedia.org/wiki/Aceleração_média
+Equação de Torricelli,Equação que relaciona velocidade, aceleração e distância sem o tempo,v² = v₀² + 2a(x - x₀),https://pt.wikipedia.org/wiki/Equação_de_Torricelli
+Movimento Retilíneo Uniforme (MRU),Movimento em linha reta com velocidade constante,v = constante,https://pt.wikipedia.org/wiki/Movimento_retilíneo_uniforme
+Movimento Retilíneo Uniformemente Acelerado (MRUA),Movimento em linha reta com aceleração constante,x(t) = x₀ + v₀t + (1/2)at²,https://pt.wikipedia.org/wiki/Movimento_retilíneo_uniformemente_acelerado
+Queda Livre,Movimento de um objeto sob a ação exclusiva da gravidade,v(t) = g t,https://pt.wikipedia.org/wiki/Queda_livre
+Velocidade de Escape,Velocidade necessária para um objeto escapar da atração gravitacional da Terra,v_esc = √(2GM/R),https://pt.wikipedia.org/wiki/Velocidade_de_escape
+Velocidade Angular,Taxa de variação do ângulo de rotação de um objeto em movimento circular,v_θ = ∆θ/∆t,https://pt.wikipedia.org/wiki/Velocidade_angular
+Aceleração Centripeta,Aceleração de um objeto que se move em uma trajetória circular,ac = v²/r,https://pt.wikipedia.org/wiki/Aceleração_centrípeta
+Movimento Circular Uniforme (MCU),Movimento de um objeto com velocidade angular constante,ω = constante,https://pt.wikipedia.org/wiki/Movimento_circular_uniforme
+Fórmula de Velocidade Média em MCU,Velocidade média em movimento circular é dada por v_m = 2πr/T,https://pt.wikipedia.org/wiki/Movimento_circular_uniforme
+Movimento Parabólico,Movimento de um objeto lançado com uma velocidade inicial em um ângulo,https://pt.wikipedia.org/wiki/Movimento_parabólico
+Equação do Movimento Parabólico,Equação que descreve o movimento em duas dimensões,x(t) = v₀ cos(θ) t, y(t) = v₀ sin(θ) t - (1/2) g t²,https://pt.wikipedia.org/wiki/Movimento_parabólico
+Altura Máxima de um Lançamento,Altura máxima atingida por um objeto em movimento parabólico,h_max = (v₀² sin²(θ))/(2g),https://pt.wikipedia.org/wiki/Movimento_parabólico
+Tempo de Voo em Movimento Parabólico,Tempo total que um objeto permanece no ar,t_v = (2v₀ sin(θ))/g,https://pt.wikipedia.org/wiki/Movimento_parabólico
+Alcance Máximo em Movimento Parabólico,Distância máxima percorrida por um objeto no lançamento,x_max = (v₀² sin(2θ))/g,https://pt.wikipedia.org/wiki/Movimento_parabólico
+Lançamento Horizontal,Movimento de um objeto lançado horizontalmente a partir de uma altura,v = √(2gh),https://pt.wikipedia.org/wiki/Lançamento_horizontal
+Equação do Lançamento Horizontal,x(t) = v₀ t, y(t) = (1/2) g t²,https://pt.wikipedia.org/wiki/Lançamento_horizontal
+Equação de Movimento em Duas Dimensões,Equações que descrevem o movimento de um objeto no plano,x(t) = x₀ + v₀x t, y(t) = y₀ + v₀y t - (1/2) g t²,https://pt.wikipedia.org/wiki/Movimento_em_duas_dimensões
+Movimento Harmônico Simples,Movimento oscilatório de um corpo sujeito a uma força restauradora,F = -kx,https://pt.wikipedia.org/wiki/Movimento_harmônico_simples
+Freio de Emergência,Redução brusca de velocidade de um veículo,a_f = (v_f - v₀)/t,https://pt.wikipedia.org/wiki/Freio
+Movimento Oscilatório,Movimento repetitivo em que um objeto se desloca em torno de uma posição de equilíbrio,x(t) = A cos(ωt + φ),https://pt.wikipedia.org/wiki/Movimento_oscilatório
+Período,Tempo que um ciclo completo de um movimento periódico leva,T = 2π/ω,https://pt.wikipedia.org/wiki/Período_(física)
+Frequência,Quantidade de ciclos por unidade de tempo,f = 1/T,https://pt.wikipedia.org/wiki/Frequência_(física)
+Força Restauradora,Força que age sobre um objeto em movimento oscilatório,como resultado de sua deformação,F = -kx,https://pt.wikipedia.org/wiki/Força_restauradora
+Amplitude,Valor máximo da posição de um objeto em movimento oscilatório,A,https://pt.wikipedia.org/wiki/Amplitude_(física)
+Velocidade Angular Média,Taxa média de variação do ângulo de um objeto em movimento circular,ω_m = ∆θ/∆t,https://pt.wikipedia.org/wiki/Velocidade_angular
+Aceleração Angular,Taxa de variação da velocidade angular de um objeto,α = ∆ω/∆t,https://pt.wikipedia.org/wiki/Aceleração_angular
+Momento de Inércia,Medida da resistência de um corpo a mudanças em seu movimento rotacional,I = Σmr²,https://pt.wikipedia.org/wiki/Momento_de_inércia
+Torque,Força que causa uma rotação em torno de um ponto de alavanca,τ = r × F,https://pt.wikipedia.org/wiki/Torque
+Energia Cinética,Energia associada ao movimento de um objeto,E_c = (1/2)mv²,https://pt.wikipedia.org/wiki/Energia_cinética
+Energia Potencial Gravitacional,Energia armazenada em um objeto devido à sua posição em um campo gravitacional,E_p = mgh,https://pt.wikipedia.org/wiki/Energia_potencial_gravitacional
+Potência Mecânica,Taxa de variação da energia com o tempo,P = ∆E/∆t,https://pt.wikipedia.org/wiki/Potência_(física)
+Trabalho,Transferência de energia através de uma força,Fórmula: W = F × d,https://pt.wikipedia.org/wiki/Trabalho_(física)
+Trabalho e Energia,Lei da conservação da energia,onde o trabalho realizado é igual à variação de energia,E = W,https://pt.wikipedia.org/wiki/Trabalho_(física)
+Lei de Hooke,Lei que descreve a força restauradora de uma mola,F = -kx,https://pt.wikipedia.org/wiki/Lei_de_Hooke
+Velocidade Angular Instantânea,Velocidade de rotação de um objeto em um instante específico,ω(t) = dθ/dt,https://pt.wikipedia.org/wiki/Velocidade_angular
+Fórmula da Energia Cinética Rotacional,Energia cinética associada a um corpo em rotação,E_c = (1/2)Iω²,https://pt.wikipedia.org/wiki/Energia_cinética
+Força Centrífuga,Força aparente que age sobre um corpo em movimento circular,f_c = mv²/r,https://pt.wikipedia.org/wiki/Força_centrífuga
+Força Centrípeta,Força que mantém um objeto em movimento circular,f_c = mv²/r,https://pt.wikipedia.org/wiki/Força_centrípeta
+Lei da Conservação da Quantidade de Movimento,Em um sistema isolado, a quantidade de movimento total é constante,p = mv,https://pt.wikipedia.org/wiki/Conservação_da_quantidade_de_movimento
+Momentum Linear,Quantidade de movimento de um objeto em movimento,p = mv,https://pt.wikipedia.org/wiki/Quantidade_de_movimento
+Impulso,Produto da força média aplicada sobre um objeto e o tempo em que é aplicada,I = F × ∆t,https://pt.wikipedia.org/wiki/Impulso_(física)
+Fórmula do Impulso,Mudança na quantidade de movimento devido a uma força aplicada,I = ∆p = F × ∆t,https://pt.wikipedia.org/wiki/Impulso_(física)
+Lei da Gravitação Universal,Lei que descreve a atração gravitacional entre dois corpos,M_1, M_2 = G (M_1 M_2) / r²,https://pt.wikipedia.org/wiki/Lei_da_gravitação_universal
+Potência Instantânea,Taxa de variação do trabalho com o tempo,P(t) = F ⋅ v,https://pt.wikipedia.org/wiki/Potência_(física)
+Velocidade de Propagação,Velocidade com que uma onda se propaga,v = λf,https://pt.wikipedia.org/wiki/Velocidade_de_propagação
+Ondas Mecânicas,Ondas que se propagam através de um meio material,v = √(T/μ),https://pt.wikipedia.org/wiki/Onda_mecânica
+Fórmula das Ondas em Cordas,Velocidade de propagação de uma onda em uma corda,v = √(T/μ),https://pt.wikipedia.org/wiki/Onda_mecânica
+Reflexão de Ondas,Mudança na direção de propagação das ondas ao baterem em um obstáculo,https://pt.wikipedia.org/wiki/Reflexão_(física)
+Refração de Ondas,Mudança de direção de uma onda ao passar de um meio para outro,v₁/v₂ = n₂/n₁,https://pt.wikipedia.org/wiki/Refração
+Difração de Ondas,Desvio de ondas quando passam por uma fenda ou contornam um obstáculo,https://pt.wikipedia.org/wiki/Difração
+Interferência de Ondas,Processo de combinação de ondas para formar uma onda resultante,https://pt.wikipedia.org/wiki/Interferência
+Efeito Doppler,Mudança na frequência observada de uma onda devido ao movimento relativo entre a fonte e o observador,f' = f (v ± vo) / (v ± vs),https://pt.wikipedia.org/wiki/Efeito_Doppler
+Ressonância,Amplificação de uma oscilação quando a frequência da força externa coincide com a frequência natural do sistema,f₀ = 1/2π√(L/m),https://pt.wikipedia.org/wiki/Ressonância
+Teoria Cinemática de Fluidos,Estudo do movimento de fluidos e suas interações,https://pt.wikipedia.org/wiki/Cinemática_de_fluídos
+Equação de Bernoulli,Relaciona a pressão, a velocidade e a altura de um fluido incompressível, P + (1/2)ρv² + ρgh = constante,https://pt.wikipedia.org/wiki/Princípio_de_Bernoulli
+Teorema de Torricelli,Relaciona a velocidade de um fluido saindo de um orifício com a altura do fluido,v = √(2gh),https://pt.wikipedia.org/wiki/Equação_de_Torricelli
+Fórmula da Energia Potencial Elástica,Energia armazenada em uma mola comprimida ou esticada,E_p = (1/2)kx²,https://pt.wikipedia.org/wiki/Energia_potencial
+Acelerômetro,Instrumento para medir aceleração,https://pt.wikipedia.org/wiki/Acelerômetro
+Centro de Massa,Único ponto de um sistema onde toda a massa pode ser considerada concentrada,x_cm = Σm_ix_i / Σm_i,https://pt.wikipedia.org/wiki/Centro_de_massa
+Força Normal,Força de reação perpendicular à superfície de contato,N = mg cos(θ),https://pt.wikipedia.org/wiki/Força_normal
+Tensão em Cordas,Fórmula que descreve a força transmitida através de uma corda ou cabo,T = mg / sin(θ),https://pt.wikipedia.org/wiki/Tensão_(física)
+Equação da Velocidade em Queda Livre,v(t) = v₀ + g t,https://pt.wikipedia.org/wiki/Queda_livre
+Velocidade Relativa,Velocidade de um objeto em relação a outro,v_rel = v₁ - v₂,https://pt.wikipedia.org/wiki/Velocidade_relativa
+Movimento de Projeção,Movimento de um objeto lançado em um ângulo com a horizontal,https://pt.wikipedia.org/wiki/Movimento_de_projeção
+Deslocamento de Partícula em Movimento Uniforme,Distância percorrida por uma partícula com velocidade constante,x(t) = x₀ + vt,https://pt.wikipedia.org/wiki/Movimento_uniforme
+Momento Linear,Quantidade de movimento de um corpo em movimento linear,p = mv,https://pt.wikipedia.org/wiki/Quantidade_de_movimento
+Quantidade de Movimento Angular,Produto da massa de um objeto e sua velocidade angular,L = Iω,https://pt.wikipedia.org/wiki/Quantidade_de_movimento_angular
+Equação da Velocidade em Movimento Retilíneo Uniforme (MRU),Equação que descreve o movimento de um objeto com velocidade constante,v = x/t,https://pt.wikipedia.org/wiki/Movimento_retilíneo_uniforme
+Equação da Posição em Movimento Retilíneo Uniforme (MRU),Posição de um objeto com velocidade constante,x(t) = x₀ + vt,https://pt.wikipedia.org/wiki/Movimento_retilíneo_uniforme
+Velocidade Relativa em Movimento Circular,Velocidade de um ponto em movimento circular,v = rω,https://pt.wikipedia.org/wiki/Movimento_circular
+Aceleração Tangencial,Aceleração que descreve a variação da velocidade tangencial em um movimento circular,a_t = rα,https://pt.wikipedia.org/wiki/Aceleração_circular
+Aceleração Normal,Acéleração que mantém a trajetória de um objeto em movimento circular,a_n = v²/r,https://pt.wikipedia.org/wiki/Aceleração_circular
+Velocidade Angular Instantânea,Variação da posição angular ao longo do tempo,ω = dθ/dt,https://pt.wikipedia.org/wiki/Velocidade_angular
+Força Centrífuga (referencial não inercial),Força fictícia que aparece quando o observador está em um referencial não inercial,f_c = mv²/r,https://pt.wikipedia.org/wiki/Força_centrífuga
+Equação do Movimento Uniformemente Acelerado (MUA),Equação que descreve o movimento de um objeto com aceleração constante,x(t) = x₀ + v₀t + (1/2)at²,https://pt.wikipedia.org/wiki/Movimento_uniformemente_acelerado
+Fórmula de Torricelli,Mudança na velocidade de um objeto sem o tempo,v² = v₀² + 2ax,https://pt.wikipedia.org/wiki/Equação_de_Torricelli
+Cálculo do Deslocamento em Movimento Uniformemente Acelerado,x = v₀t + (1/2)at²,https://pt.wikipedia.org/wiki/Movimento_uniformemente_acelerado
+Leis de Newton,Leis fundamentais que descrevem o movimento de corpos e a interação entre forças,F = ma,https://pt.wikipedia.org/wiki/Leis_de_Newton
+Lei da Inércia,Primeira lei de Newton que afirma que um objeto em repouso ou movimento continuará assim, a menos que uma força externa atue,F = 0,https://pt.wikipedia.org/wiki/Inércia
+Lei Fundamental da Dinâmica,Segunda lei de Newton, que descreve a relação entre força e aceleração,F = ma,https://pt.wikipedia.org/wiki/Leis_de_Newton
+Lei da Ação e Reação,Terceira lei de Newton, que descreve a interação entre dois corpos,F₁₂ = -F₂₁,https://pt.wikipedia.org/wiki/Leis_de_Newton
+Velocidade de Propagação das Ondas,Taxa de propagação de ondas em um meio,v = √(T/μ),https://pt.wikipedia.org/wiki/Onda_mecânica
+Componente Tangencial da Força,Fórmula para a força atuando na direção tangencial a uma trajetória circular,F_t = F sin(θ),https://pt.wikipedia.org/wiki/Força
+Movimento Uniformemente Variado (MUV),Movimento em que a aceleração é constante e a velocidade varia uniformemente,v = v₀ + at,https://pt.wikipedia.org/wiki/Movimento_uniformemente_variado
+Velocidade Média em Movimento Uniformemente Acelerado,v_m = (v₀ + v_f) / 2,https://pt.wikipedia.org/wiki/Movimento_uniformemente_a 
+Aceleração Gravitacional,Taxa de variação da velocidade de um objeto devido à gravidade,g = 9.81 m/s²,https://pt.wikipedia.org/wiki/Aceleração_gravitacional
+Equação da Velocidade Média em Movimento Uniformemente Acelerado,v_m = (v₀ + v_f) / 2,https://pt.wikipedia.org/wiki/Movimento_uniformemente_a
+Leis de Kepler,Três leis que descrevem o movimento dos planetas ao redor do sol,p = m r² ω,https://pt.wikipedia.org/wiki/Leis_de_Kepler
