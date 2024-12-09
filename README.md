@@ -1,6 +1,4 @@
-Thank you for providing the file and directory structure. Based on the details you’ve shared, here’s an updated version of the `README.md` file tailored for your project:
 
----
 
 # Chatbot Project
 
